@@ -1,5 +1,0 @@
-{
-  "name": "AI Quiz Generator",
-  "description": "A fast, modern Quiz Web Application built with React, Vite, Tailwind CSS, and the Google Gemini API.",
-  "requestFramePermissions": []
-}
