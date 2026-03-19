@@ -1,6 +1,6 @@
 export async function generateQuestions(topic, count = 10) {
   try {
-    const response = await fetch('/api/generate-questions', {
+    const response = await fetch('https://genquiz-backend.onrender.com/api/generate-questions', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
